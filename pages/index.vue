@@ -1,10 +1,8 @@
 <template>
-
-    <Navbar/>
-    <Hero/>
-    <About/>
-    <Skills/>
-    <Projects/>
-    <Footer/>
-
+    <Navbar />
+    <Hero />
+    <About />
+    <Skills />
+    <Projects />
+    <Footer />
 </template>

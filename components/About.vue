@@ -1,8 +1,8 @@
 <template>
-    <main class="w-full flex justify-center items-center bg-purple-200 relative overflow-hidden">
+    <main class="w-full flex justify-center items-center relative overflow-hidden">
 
 
-        <section class="bg-gray-100 w-screen">
+        <section class="bg-purple-100 w-screen">
             <div class="container mx-auto flex justify-center py-16 px-4 sm:px-6 lg:px-8">
                 <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
 
