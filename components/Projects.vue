@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-col justify-center items-center bg-purple-100 scroll-smooth">
+    <div class="flex flex-col justify-center items-center bg-purple-200 scroll-smooth">
         <div class="flex justify-center items-center mt-10">
             <p>Projects</p>
         </div>
@@ -23,8 +23,11 @@
       return {
         items: [
           { image: 'https://cdn.discordapp.com/attachments/1208411877198266379/1211405252629368933/santasquad.png?ex=65ee140f&is=65db9f0f&hm=d5b696cd24d8321dc3e43b6967bd1699ab6e0f7daa409a16241a5742dba7e29f&', title: "Lettre d'amour", link: '/lettre' },
-          { image: 'http://tinyurl.com/5ff3z2y7', title: 'Tout commence par une fleur', link: '/moments' },
-          { image: 'http://tinyurl.com/69pwxdaa', title: 'Ça se termine avec nous', link: '/fin' }
+          { image: 'https://cdn.discordapp.com/attachments/1208411877198266379/1211402723396812921/fff.png?ex=65ee11b4&is=65db9cb4&hm=a0bec878ba4687d4483f66f44641d604ba114984da281bee986a23bb23b73862&', title: 'Tout commence par une fleur', link: '/moments' },
+          { image: 'https://cdn.discordapp.com/attachments/1208411877198266379/1211402723396812921/fff.png?ex=65ee11b4&is=65db9cb4&hm=a0bec878ba4687d4483f66f44641d604ba114984da281bee986a23bb23b73862&', title: 'Ça se termine avec nous', link: '/fin' },
+          { image: 'https://cdn.discordapp.com/attachments/1208411877198266379/1211402723396812921/fff.png?ex=65ee11b4&is=65db9cb4&hm=a0bec878ba4687d4483f66f44641d604ba114984da281bee986a23bb23b73862&', title: 'Ça se termine avec nous', link: '/fin' },
+          { image: 'https://cdn.discordapp.com/attachments/1208411877198266379/1211402723396812921/fff.png?ex=65ee11b4&is=65db9cb4&hm=a0bec878ba4687d4483f66f44641d604ba114984da281bee986a23bb23b73862&', title: 'Ça se termine avec nous', link: '/fin' },
+          { image: 'https://cdn.discordapp.com/attachments/1208411877198266379/1211402723396812921/fff.png?ex=65ee11b4&is=65db9cb4&hm=a0bec878ba4687d4483f66f44641d604ba114984da281bee986a23bb23b73862&', title: 'Ça se termine avec nous', link: '/fin' }
         ]
       };
     }

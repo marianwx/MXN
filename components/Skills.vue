@@ -6,10 +6,12 @@
         <div class="w-full px-4 pt-16 pb-16">
           <h2 class="text-4xl font-bold text-center">My Skills</h2>
           <p class="pt-6 pb-8 text-base max-w-2xl text-center m-auto dark:text-neutral-400">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit nam maxime quas fugiat tempore blanditiis, eveniet quia accusantium.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit nam maxime quas fugiat tempore blanditiis, eveniet
+            quia accusantium.
           </p>
           <div class="mx-auto w-full max-w-4xl dark:bg-transparent">
-            <div v-if="firstSetVisible" class="text-center justify-center items-center grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6">
+            <div v-if="firstSetVisible"
+              class="text-center justify-center items-center grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6">
               <!-- === Skills === -->
               <a target="_blank" href="">
                 <img alt="" class="h-20 mx-auto" src="https://www.svgrepo.com/show/452228/html-5.svg">
@@ -42,7 +44,8 @@
                 <img alt="" class="h-20 mx-auto" src="https://www.svgrepo.com/show/452210/git.svg">
               </a>
               <a target="_blank" href="">
-                <img alt="" class="h-20 mx-auto" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg">
+                <img alt="" class="h-20 mx-auto"
+                  src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg">
               </a>
               <a target="_blank" href="">
                 <img alt="" class="h-20 mx-auto" src="https://iconape.com/wp-content/png_logo_vector/yarn-logo.png">
@@ -54,11 +57,17 @@
           </div>
           <!-- Toggle Button -->
           <div class="flex justify-center mt-8">
-            <input type="radio" id="firstSet" name="setImageSet" value="firstSet" v-model="selectedSet" class="mr-2" checked @change="toggleImages">
-            <label for="firstSet" class="cursor-pointer">Skills</label>
-            <input type="radio" id="secondSet" name="setImageSet" value="secondSet" v-model="selectedSet" class="ml-4 mr-2" @change="toggleImages">
-            <label for="secondSet" class="cursor-pointer">Tools</label>
+            <input type="radio" id="firstSet" name="setImageSet" value="firstSet" v-model="selectedSet" class="hidden"
+              checked @change="toggleImages">
+            <label for="firstSet"
+              class="cursor-pointer flex items-center justify-center font-semibold w-24 h-10 bg-purple-100 rounded-md shadow-md mr-2 transition duration-300 ease-in-out hover:bg-gray-100">Skills</label>
+            <input type="radio" id="secondSet" name="setImageSet" value="secondSet" v-model="selectedSet" class="hidden"
+              @change="toggleImages">
+            <label for="secondSet"
+              class="cursor-pointer flex items-center justify-center font-semibold w-24 h-10 bg-purple-100 rounded-md shadow-md ml-4 transition duration-300 ease-in-out hover:bg-gray-100">Tools</label>
           </div>
+          <!-- === Toggle Button === -->
+
         </div>
       </div>
     </div>
@@ -71,7 +80,7 @@ export default {
   data() {
     return {
       firstSetVisible: true,
-      selectedSet: 'firstSet'
+      selectedSet: 'firstSet',
     };
   },
   methods: {

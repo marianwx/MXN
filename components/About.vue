@@ -2,21 +2,21 @@
     <main class="w-full flex justify-center items-center relative overflow-hidden">
 
 
-        <section class="bg-purple-100 w-screen">
+        <section class="bg-purple-200 w-screen">
             <div class="container mx-auto flex justify-center py-16 px-4 sm:px-6 lg:px-8">
                 <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
 
                     <div class="mt-12 md:mt-0">
                         <div class="">
-                            <div class="bg-white border rounded-xl max-w-md">
+                            <div class="bg-white border rounded-xl max-w-md shadow-lg">
                                 <div class="flex items-center px-4 py-3">
-                                    <img class="h-8 w-8 rounded-full" src="http://tinyurl.com/bd8a4997" />
+                                    <img class="h-8 w-8 rounded-full" src="https://cdn.discordapp.com/attachments/1208411877198266379/1210973800976490556/MXN.png?ex=65ec823c&is=65da0d3c&hm=c72924a8a6c36379b6addfcc99ad8ba63241c5a906e7023d784480180e9c267d&" />
                                     <div class="ml-3 ">
                                         <span class="text-sm font-semibold antialiased block leading-tight">mxn.ro</span>
                                         <span class="text-gray-600 text-xs block">Timisoara, Romania</span>
                                     </div>
                                 </div>
-                                <img src="http://tinyurl.com/2xpacda2" />
+                                <img src="https://cdn.discordapp.com/attachments/1208411877198266379/1210981006769791038/about_me.png?ex=65ec88f2&is=65da13f2&hm=c2a741fe7b12edd145d730162269a17650b739ce343815de116707c3d6b10f21&" />
                                 <div class="flex items-center justify-between mx-4 mt-3 mb-2">
                                     <div class="flex gap-5">
                                         <svg fill="#262626" height="24" viewBox="0 0 48 48" width="24">

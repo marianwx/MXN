@@ -20,6 +20,8 @@
                         href="#">Skills</a>
                     <a class="inline-block rounded-full px-3 py-1 font-semibold text-gray-900 transition-all duration-200 hover:bg-purple-100 hover:text-gray-900"
                         href="#">Projects</a>
+                        <a class="inline-block rounded-full px-3 py-1 font-semibold text-gray-900 transition-all duration-200 hover:bg-purple-100 hover:text-gray-900"
+                        href="#contact">Contact</a>
                 </div>
                 <div class="flex items-center justify-end gap-3 px-5">
                     <button id="darkModeToggle"
