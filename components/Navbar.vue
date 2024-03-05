@@ -6,7 +6,7 @@
                 <div class="flex shrink-0">
                     <a aria-current="page" class="flex items-center" href="/">
                         <img class="h-4 w-auto"
-                            src="https://cdn.discordapp.com/attachments/1208411877198266379/1208412055883878421/MXN-removebg-preview.png?ex=65e3306d&is=65d0bb6d&hm=302cab9c024729e60dc07684da2fd2f5783667211e1902b4ca3727a145d26187&"
+                            src="https://media.discordapp.net/attachments/1208411877198266379/1208412055883878421/MXN-removebg-preview.png?ex=65f5a56d&is=65e3306d&hm=72c33b6d7b6fff1bc757e325d991299e6ac1c7544dc40e633b51c777a885b061&=&format=webp&quality=lossless"
                             alt="">
                     </a>
                 </div>
