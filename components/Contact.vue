@@ -58,7 +58,7 @@
                                         class="block text-sm font-medium text-gray-700 dark:text-gray-100">Name</label>
                                     <div class="relative mt-1">
                                         <input type="text" id="name" name="name"
-                                            class="block w-full h-10 pl-8 pr-3 mt-1 text-sm text-gray-700 border focus:outline-none rounded shadow-sm focus:border-blue-500"
+                                            class="block w-full h-10 pl-9 pr-3 mt-1 text-sm text-gray-700 border focus:outline-none rounded shadow-sm focus:border-purple-500"
                                             placeholder="Marian" />
                                         <span class="absolute inset-y-0 left-0 flex items-center justify-center ml-2">
                                             <img src="https://cdn-icons-png.flaticon.com/512/3462/3462410.png" class="w-5" alt="">
@@ -70,7 +70,7 @@
                                         class="block text-sm font-medium text-gray-700 dark:text-gray-100">Email</label>
                                     <div class="relative mt-1">
                                         <input type="email" id="email" name="email"
-                                            class="block w-full h-10 pl-8 pr-3 mt-1 text-sm text-gray-700 border focus:outline-none rounded shadow-sm focus:border-blue-500"
+                                            class="block w-full h-10 pl-9 pr-3 mt-1 text-sm text-gray-700 border focus:outline-none rounded shadow-sm focus:border-purple-500"
                                             placeholder="marian@mxn.ro" />
                                         <span class="absolute inset-y-0 left-0 flex items-center justify-center ml-2">
                                             <img src="https://cdn-icons-png.flaticon.com/128/3884/3884363.png" class="w-5" alt="">
@@ -82,7 +82,7 @@
                                         class="block text-sm font-medium text-gray-700 dark:text-gray-100">Message</label>
                                     <div class="relative mt-1">
                                         <textarea id="message" name="message" rows="4"
-                                            class="block w-full h-24 pl-8 pt-3 pr-3 mt-1 text-sm text-gray-700 border focus:outline-none rounded shadow-sm focus:border-blue-500 resize-none"
+                                            class="block w-full h-24 pl-9 pt-3 pr-3 mt-1 text-sm text-gray-700 border focus:outline-none rounded shadow-sm focus:border-purple-500 resize-none"
                                             placeholder="Your message..."></textarea>
                                         <span class="absolute top-3 left-2 flex items-center justify-center">
                                             <img src="https://cdn-icons-png.flaticon.com/128/7647/7647522.png" class="w-5" alt="">
