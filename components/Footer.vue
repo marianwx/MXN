@@ -9,6 +9,7 @@
                 <a href="mailto:dev@mxn.ro"><img src="https://www.svgrepo.com/show/349378/gmail.svg" class="w-8" alt=""></a>
                 <div class="h-4 w-px bg-slate-500/20"></div>
                 <a href="https://github.com/marianwx" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/439171/github.svg" class="w-8" alt=""></a>
+                <div class="h-4 w-px bg-slate-500/20"></div>
                 <button><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.png" class="w-8" alt=""></button>
             </div>
         </div>

@@ -1,8 +1,7 @@
 <template>
   <main class="h-screen flex flex-col justify-center items-center bg-purple-200 relative overflow-hidden">
     <main class="flex w-full flex-col items-center justify-center text-center px-4">
-      <a href="#" target="_blank" rel="noreferrer"
-        class="border rounded-2xl py-1 px-4 text-slate-500 text-sm mb-5 hover:scale-105 transition duration-300 ease-in-out"></a>
+      <!-- <a href="#" target="_blank" rel="noreferrer" class="border rounded-2xl py-1 px-4 text-slate-500 text-sm mb-5 hover:scale-105 transition duration-300 ease-in-out"></a> -->
       <h1 class="mx-auto max-w-4xl font-display text-5xl font-bold tracking-normal text-slate-900 sm:text-7xl">MXN On The
         <span class="text-purple-600" id="text-change">Go</span></h1>
       <p class="mx-auto mt-12 max-w-xl text-lg text-slate-700 leading-7">Lorem ipsum dolor sit amet consectetur
