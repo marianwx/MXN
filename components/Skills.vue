@@ -1,7 +1,7 @@
 <template>
-  <main class="flex justify-center items-center bg-purple-200 py-32">
+  <main class="flex justify-center items-center bg-purple-200">
 
-    <div class="container mx-auto px-4 py-8">
+    <div class="container mx-auto px-4">
       <div class="flex flex-wrap justify-center">
         <div class="w-full px-4 pt-16 pb-16">
           <h2 class="text-4xl font-bold text-center">My Skills</h2>
@@ -60,11 +60,11 @@
             <input type="radio" id="firstSet" name="setImageSet" value="firstSet" v-model="selectedSet" class="hidden"
               checked @change="toggleImages">
             <label for="firstSet"
-              class="cursor-pointer flex items-center justify-center font-semibold w-24 h-10 bg-purple-100 rounded-md shadow-md mr-2 transition duration-300 ease-in-out hover:bg-gray-100">Skills</label>
+              class="cursor-pointer flex items-center justify-center font-semibold w-24 h-10 bg-purple-100 rounded-full rounded-r-none shadow-md  transition duration-300 ease-in-out hover:bg-gray-100">Skills</label>
             <input type="radio" id="secondSet" name="setImageSet" value="secondSet" v-model="selectedSet" class="hidden"
               @change="toggleImages">
             <label for="secondSet"
-              class="cursor-pointer flex items-center justify-center font-semibold w-24 h-10 bg-purple-100 rounded-md shadow-md ml-4 transition duration-300 ease-in-out hover:bg-gray-100">Tools</label>
+              class="cursor-pointer flex items-center justify-center font-semibold w-24 h-10 bg-purple-100 rounded-full rounded-l-none shadow-md  transition duration-300 ease-in-out hover:bg-gray-100">Tools</label>
           </div>
           <!-- === Toggle Button === -->
 

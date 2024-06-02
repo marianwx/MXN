@@ -10,13 +10,13 @@
                         <div class="">
                             <div class="bg-white border rounded-xl max-w-md shadow-lg">
                                 <div class="flex items-center px-4 py-3">
-                                    <img class="h-8 w-8 rounded-full" src="https://cdn.discordapp.com/attachments/1208411877198266379/1210973800976490556/MXN.png?ex=65ec823c&is=65da0d3c&hm=c72924a8a6c36379b6addfcc99ad8ba63241c5a906e7023d784480180e9c267d&" />
+                                    <img class="h-8 w-8 rounded-full" src="https://cdn.discordapp.com/attachments/1208411877198266379/1210973800976490556/MXN.png?ex=665d3a7c&is=665be8fc&hm=4377d1ffc0a6838d3b1a9596f3f7ab11e159131e8f54b2d4f6b0d128e1ecdae4&" />
                                     <div class="ml-3 ">
                                         <span class="text-sm font-semibold antialiased block leading-tight">mxn.ro</span>
                                         <span class="text-gray-600 text-xs block">Timisoara, Romania</span>
                                     </div>
                                 </div>
-                                <img src="https://cdn.discordapp.com/attachments/1208411877198266379/1210981006769791038/about_me.png?ex=65ec88f2&is=65da13f2&hm=c2a741fe7b12edd145d730162269a17650b739ce343815de116707c3d6b10f21&" />
+                                <img src="https://cdn.discordapp.com/attachments/1208411877198266379/1210981006769791038/about_me.png?ex=665d4132&is=665befb2&hm=84a75743ca4b759efc13c677414114570f290364e5937b65173ff3ecd49bfc72&" />
                                 <div class="flex items-center justify-between mx-4 mt-3 mb-2">
                                     <div class="flex gap-5">
                                         <svg fill="#262626" height="24" viewBox="0 0 48 48" width="24">
@@ -49,9 +49,10 @@
                     </div>
                     <div class="max-w-lg">
                         <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">Light a pixel as you whistle..</h2>
-                        <p class="mt-4 text-gray-600 text-lg">I am Marian and i like maths.</p>
+                        <p class="mt-4 text-gray-600 text-lg">I excel in solving problems quickly and achieving significant goals, consistently 
+                            delivering high-quality results under tight deadlines with creativity and efficiency..</p>
                         <div class="mt-8">
-                            <a href="#" class="text-blue-500 hover:text-blue-600 font-medium">Check out my skills
+                            <a href="#" class="text-purple-600 hover:text-blue-600 font-medium">Check out my skills
                                 <span class="ml-2">&#8594;</span></a>
                         </div>
                     </div>

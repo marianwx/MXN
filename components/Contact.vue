@@ -10,14 +10,14 @@
                             <div class="bg-white border rounded-xl max-w-md shadow-lg">
                                 <div class="flex items-center px-4 py-3">
                                     <img class="h-8 w-8 rounded-full"
-                                        src="https://cdn.discordapp.com/attachments/1208411877198266379/1210973800976490556/MXN.png?ex=65ec823c&is=65da0d3c&hm=c72924a8a6c36379b6addfcc99ad8ba63241c5a906e7023d784480180e9c267d&" />
+                                        src="https://cdn.discordapp.com/attachments/1208411877198266379/1210973800976490556/MXN.png?ex=665d3a7c&is=665be8fc&hm=4377d1ffc0a6838d3b1a9596f3f7ab11e159131e8f54b2d4f6b0d128e1ecdae4&" />
                                     <div class="ml-3 ">
                                         <span class="text-sm font-semibold antialiased block leading-tight">mxn.ro</span>
                                         <span class="text-gray-600 text-xs block">Timisoara, Romania</span>
                                     </div>
                                 </div>
                                 <img
-                                    src="https://cdn.discordapp.com/attachments/1208411877198266379/1212066457064579082/about_me.png?ex=65f07bda&is=65de06da&hm=20a7492541497589f4cc9bdcafab6c0deffce5166505435df191b4a3106b324f&" />
+                                    src="https://media.discordapp.net/attachments/1208411877198266379/1212066457064579082/about_me.png?ex=665d3f9a&is=665bee1a&hm=a0fe9fc107a8e6f7179d40d49da6b2d5166d762ac3d1bb749dbe82353f8cef23&=&format=webp&quality=lossless&width=597&height=597" />
                                 <div class="flex items-center justify-between mx-4 mt-3 mb-2">
                                     <div class="flex gap-5">
                                         <svg fill="#262626" height="24" viewBox="0 0 48 48" width="24">
