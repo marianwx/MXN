@@ -1,11 +1,11 @@
 <template>
-  <main class="flex justify-center items-center bg-purple-200">
+  <main class="flex justify-center items-center bg-purple-200 dark:bg-indigo-900" id="skills">
 
     <div class="container mx-auto px-4">
       <div class="flex flex-wrap justify-center">
         <div class="w-full px-4 pt-16 pb-16">
-          <h2 class="text-4xl font-bold text-center">My Skills</h2>
-          <p class="pt-6 pb-8 text-base max-w-2xl text-center m-auto dark:text-neutral-400">
+          <h2 class="text-4xl font-bold dark:text-white text-center">My Skills</h2>
+          <p class="pt-6 pb-8 text-base max-w-2xl text-center m-auto dark:text-slate-300">
             Lorem ipsum dolor sit amet consectetur adipisicing elit nam maxime quas fugiat tempore blanditiis, eveniet
             quia accusantium.
           </p>

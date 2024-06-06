@@ -1,8 +1,8 @@
 <template>
-    <main class="w-full flex justify-center items-center relative overflow-hidden">
+    <main class="w-full flex justify-center items-center relative overflow-hidden" id="about">
 
 
-        <section class="bg-purple-200 w-screen">
+        <section class="bg-purple-200 dark:bg-indigo-900 w-screen">
             <div class="container mx-auto flex justify-center py-16 px-4 sm:px-6 lg:px-8">
                 <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
 
@@ -43,16 +43,16 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <div class="font-semibold text-sm mx-4 mt-2 mb-4">92,372 likes</div>
+                                <div class="font-semibold text-sm mx-4 mt-2 mb-4">10,072 likes</div>
                             </div>
                         </div>
                     </div>
                     <div class="max-w-lg">
-                        <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">Light a pixel as you whistle..</h2>
-                        <p class="mt-4 text-gray-600 text-lg">I excel in solving problems quickly and achieving significant goals, consistently 
+                        <h2 class="text-3xl font-extrabold text-gray-900 dark:text-white sm:text-4xl">Light a pixel as you whistle..</h2>
+                        <p class="mt-4 text-gray-600 dark:text-slate-200 text-lg">I excel in solving problems quickly and achieving significant goals, consistently 
                             delivering high-quality results under tight deadlines with creativity and efficiency..</p>
                         <div class="mt-8">
-                            <a href="#" class="text-purple-600 hover:text-blue-600 font-medium">Check out my skills
+                            <a href="#" class="text-purple-600 hover:text-purple-700 dark:text-violet-400 dark:hover:text-violet-500 transition-all duration-300 font-medium">Check out my skills
                                 <span class="ml-2">&#8594;</span></a>
                         </div>
                     </div>

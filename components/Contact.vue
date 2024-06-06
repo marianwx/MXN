@@ -1,6 +1,6 @@
 <template>
     <main id="contact" class="w-full flex justify-center items-center relative overflow-hidden">
-        <section class="bg-purple-200 w-screen">
+        <section class="bg-purple-200 dark:bg-indigo-900 w-screen">
             <div class="container mx-auto flex justify-center py-16 px-4 sm:px-6 lg:px-8">
                 <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
 
@@ -44,7 +44,7 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <div class="font-semibold text-sm mx-4 mt-2 mb-4">92,372 likes</div>
+                                <div class="font-semibold text-sm mx-4 mt-2 mb-4">26,087 likes</div>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                             <div class="bg-white p-8 rounded-xl shadow-lg max-w-md w-96">
                                 <div class="mb-4">
                                     <label for="name"
-                                        class="block text-sm font-medium text-gray-700 dark:text-gray-100">Name</label>
+                                        class="block text-sm font-medium text-gray-700 dark:text-slate-600">Name</label>
                                     <div class="relative mt-1">
                                         <input type="text" id="name" name="name"
                                             class="block w-full h-10 pl-9 pr-3 mt-1 text-sm text-gray-700 border focus:outline-none rounded shadow-sm focus:border-purple-500"
@@ -67,7 +67,7 @@
                                 </div>
                                 <div class="mb-4">
                                     <label for="email"
-                                        class="block text-sm font-medium text-gray-700 dark:text-gray-100">Email</label>
+                                        class="block text-sm font-medium text-gray-700 dark:text-gray-100 dark:text-slate-600">Email</label>
                                     <div class="relative mt-1">
                                         <input type="email" id="email" name="email"
                                             class="block w-full h-10 pl-9 pr-3 mt-1 text-sm text-gray-700 border focus:outline-none rounded shadow-sm focus:border-purple-500"
@@ -79,7 +79,7 @@
                                 </div>
                                 <div class="mb-4">
                                     <label for="message"
-                                        class="block text-sm font-medium text-gray-700 dark:text-gray-100">Message</label>
+                                        class="block text-sm font-medium text-gray-700 dark:text-gray-100 dark:text-slate-600">Message</label>
                                     <div class="relative mt-1">
                                         <textarea id="message" name="message" rows="4"
                                             class="block w-full h-24 pl-9 pt-3 pr-3 mt-1 text-sm text-gray-700 border focus:outline-none rounded shadow-sm focus:border-purple-500 resize-none"

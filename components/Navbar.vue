@@ -15,11 +15,11 @@
                         class="inline-block rounded-full px-3 py-1 font-semibold text-gray-900 transition-all duration-200 hover:bg-purple-100 hover:text-gray-900"
                         href="#">Home</a>
                     <a class="inline-block rounded-full px-3 py-1 font-semibold text-gray-900 transition-all duration-200 hover:bg-purple-100 hover:text-gray-900"
-                        href="#">About</a>
+                        href="#about">About</a>
                     <a class="inline-block rounded-full px-3 py-1 font-semibold text-gray-900 transition-all duration-200 hover:bg-purple-100 hover:text-gray-900"
-                        href="#">Skills</a>
+                        href="#skills">Skills</a>
                     <a class="inline-block rounded-full px-3 py-1 font-semibold text-gray-900 transition-all duration-200 hover:bg-purple-100 hover:text-gray-900"
-                        href="#">Projects</a>
+                        href="#projects">Projects</a>
                         <a class="inline-block rounded-full px-3 py-1 font-semibold text-gray-900 transition-all duration-200 hover:bg-purple-100 hover:text-gray-900"
                         href="#contact">Contact</a>
                 </div>
