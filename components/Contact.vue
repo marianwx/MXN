@@ -91,7 +91,7 @@
 
                             </div>
                             <button type="submit"
-                                class="bg-purple-400 text-white p-2 rounded-lg font-semibold w-full transition duration-300 hover:bg-purple-300 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-100">Send</button>
+                                class="bg-purple-400 text-white p-2 rounded-lg font-semibold w-full transition duration-300 hover:bg-purple-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-100">Send</button>
                         </div>
                     </form>
                 </div>

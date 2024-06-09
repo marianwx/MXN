@@ -12,7 +12,7 @@
                 <h1 class="mx-auto mb-8 text-2xl font-semibold leading-none tracking-tighter text-neutral-600 dark:text-white lg:text-3xl">Santa's Squad</h1>
                 <p class="mx-auto text-base leading-relaxed text-gray-500 dark:text-slate-300">
                   It was created in a contest in which it was awarded first place for helping children who cannot help themselves.</p><div class="mt-4">
-                    <a href="#" class="inline-flex items-center mt-4 font-semibold text-blue-600 dark:text-violet-400 dark:hover:text-violet-500 lg:mb-0 hover:text-neutral-600" title="read more"> Lend a hand » </a>
+                    <a href="#" class="inline-flex items-center mt-4 font-semibold text-violet-500 dark:text-violet-400 dark:hover:text-violet-500 lg:mb-0 hover:text-violet-600" title="read more"> Lend a hand » </a>
                 </div>
             </div>
             <div class="p-6">
@@ -21,7 +21,7 @@
                 <h1 class="mx-auto mb-8 text-2xl font-semibold leading-none tracking-tighter text-neutral-600 dark:text-white lg:text-2xl">Would you be my Valentine?</h1>
                 <p class="mx-auto text-base leading-relaxed text-gray-500 dark:text-slate-300">
                   The french version of "Would you be my Valentine?" created especially for my girlfriend.</p>                <div class="mt-4">
-                    <a href="#" class="inline-flex items-center mt-4 font-semibold text-blue-600 dark:text-violet-400 dark:hover:text-violet-500 lg:mb-0 hover:text-neutral-600" title="read more"> Slide to » </a>
+                    <a href="#" class="inline-flex items-center mt-4 font-semibold text-violet-500 dark:text-violet-400 dark:hover:text-violet-500 lg:mb-0 hover:text-violet-600" title="read more"> Slide to » </a>
                 </div>
             </div>
             <div class="p-6">
