@@ -10,13 +10,13 @@
                         <div class="">
                             <div class="bg-white border rounded-xl max-w-md shadow-lg">
                                 <div class="flex items-center px-4 py-3">
-                                    <img class="h-8 w-8 rounded-full" src="https://cdn.discordapp.com/attachments/1208411877198266379/1210973800976490556/MXN.png?ex=665d3a7c&is=665be8fc&hm=4377d1ffc0a6838d3b1a9596f3f7ab11e159131e8f54b2d4f6b0d128e1ecdae4&" />
+                                    <img class="h-8 w-8 rounded-full" src="/MXN.png" />
                                     <div class="ml-3 ">
                                         <span class="text-sm font-semibold antialiased block leading-tight">mxn.ro</span>
                                         <span class="text-gray-600 text-xs block">Timisoara, Romania</span>
                                     </div>
                                 </div>
-                                <img src="https://cdn.discordapp.com/attachments/1208411877198266379/1210981006769791038/about_me.png?ex=665d4132&is=665befb2&hm=84a75743ca4b759efc13c677414114570f290364e5937b65173ff3ecd49bfc72&" />
+                                <img src="/about_me.png" />
                                 <div class="flex items-center justify-between mx-4 mt-3 mb-2">
                                     <div class="flex gap-5">
                                         <svg fill="#262626" height="24" viewBox="0 0 48 48" width="24">
