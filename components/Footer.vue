@@ -17,7 +17,7 @@
           <button @click.stop="toggleTooltip" class="relative">
             <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-square-color-icon.png" class="w-8" alt="">
             <div v-if="showTooltip" class="absolute bottom-full mb-2 w-48 p-2 bg-white border border-slate-300 rounded shadow-lg">
-              <p class="text-xs text-center text-slate-700">fxmarian - Originally known as maran#9411</p>
+              <p class="text-xs text-center text-slate-700"><a target=”_blank” href="https://discord.gg/z8V2PnQSnC">discord.gg/z8V2PnQSnC</a></p>
             </div>
           </button>
         </div>
